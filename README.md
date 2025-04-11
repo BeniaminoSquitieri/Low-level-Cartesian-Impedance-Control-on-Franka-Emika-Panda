@@ -1,4 +1,4 @@
-# Task Space Impedance Control for the Panda Robot
+# Low-level Cartesian Impedance Control on Franka Emika Panda
 
 ## Project Overview
 
