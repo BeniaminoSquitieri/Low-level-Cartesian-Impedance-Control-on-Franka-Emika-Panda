@@ -1,6 +1,0 @@
-source;share/acg_resources_panda_trajectory_generation/hook/pythonpath.ps1
-source;share/acg_resources_panda_trajectory_generation/hook/pythonpath.dsv
-source;share/acg_resources_panda_trajectory_generation/hook/pythonpath.sh
-source;share/acg_resources_panda_trajectory_generation/hook/ament_prefix_path.ps1
-source;share/acg_resources_panda_trajectory_generation/hook/ament_prefix_path.dsv
-source;share/acg_resources_panda_trajectory_generation/hook/ament_prefix_path.sh
